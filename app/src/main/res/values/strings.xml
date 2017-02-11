@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetrofitStackOverflow</string>
+
+    <string name="load">Recarregar</string>
+    <string name="tag">Pesquisa por Tag</string>
+    <string name="search">Pesquisar</string>
+
+</resources>

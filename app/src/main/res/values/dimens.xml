@@ -1,3 +1,5 @@
+<!-- Código copiado/modificado do tutorial "Using Retrofit 2.x as REST client - Tutorial" -->
+<!-- Obtido em: http://www.vogella.com/tutorials/Retrofit/article.html - 10/02/2017 -->
 <resources>
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>

@@ -24,6 +24,10 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
+/**
+ * Código copiado/modificado do tutorial "Using Retrofit 2.x as REST client - Tutorial"
+ * Obtido em: http://www.vogella.com/tutorials/Retrofit/article.html - 10/02/2017
+ */
 public class MainActivity extends AppCompatActivity {
 
     private EditText etTag;
@@ -70,6 +74,7 @@ public class MainActivity extends AppCompatActivity {
         progressDialog.setIndeterminate(true);
         progressDialog.setCancelable(false);
         progressDialog.setMessage("Carregando...");
+        progressDialog.show();
 
         Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl("https://api.stackexchange.com")

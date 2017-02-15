@@ -1,3 +1,5 @@
+<!-- Código copiado/modificado do tutorial "Using Retrofit 2.x as REST client - Tutorial" -->
+<!-- Obtido em: http://www.vogella.com/tutorials/Retrofit/article.html - 10/02/2017 -->
 <resources>
     <!-- Example customization of dimensions originally defined in res/values/dimens.xml
          (such as screen margins) for screens with more than 820dp of available width. This

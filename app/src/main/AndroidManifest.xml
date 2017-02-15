@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!-- Código copiado/modificado do tutorial "Using Retrofit 2.x as REST client - Tutorial" -->
+<!-- Obtido em: http://www.vogella.com/tutorials/Retrofit/article.html - 10/02/2017 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.example.android.retrofitstackoverflow">
 
-    <!-- -->
+
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
